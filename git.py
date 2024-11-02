@@ -1,6 +1,8 @@
-import matplotlib.pyplot as plt
+from datetime import datetime
 
-print('Python eh magnifico')
+def print_oi():
+    print(f'Oi, python é legal. Data de hoje: {datetime.now()}')
 
-fig = plt.bar([1,2,3],[10,3,1.8])
-plt.show()
+if __name__=='__main__':
+    print_oi()
+    
