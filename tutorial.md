@@ -21,7 +21,26 @@
 - git pull
 - git remote show origin
 
+---
+
 ### Git:  merge e pull request (PR)
 - git merge `nome da branch a qual se quer fazer merge`
 - git merge --abort
 - git merge --continue
+
+--
+
+### Tags (leves, anotadas)
+
+- git  tag `nome da tag` (ex.: v2025)
+- git tag
+- git tag -d nome da tag
+
+- git tag -a `nome da tag` -m `Pequena Descrição`
+- git show ``nome da tag`
+- git push origin v2025
+- git push origin main --delete v2025
+
+---
+- git commit --amend
+- git checkout -- `nome do arquivo`
