@@ -17,3 +17,8 @@
 - git aremote add origin `git@github.com:nome/coisa.git`
 - git remote -v
 - git push
+- git remote remove origin
+- git pull
+- git remote show origin
+
+### Git:  merge e pull request (PR)
