@@ -25,3 +25,4 @@
 - git merge `nome da branch para fazer merge`
 - git merge --abort
 - git merge --continue
+- git rebase `nome da ... rebase`
