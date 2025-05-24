@@ -4,7 +4,7 @@
 - git status
 - git add .
 - git diff
-- git commit --amend -m "menssagem ._."
+- git commit --amend -m "menssagem"
 - git diff --staged
 - git shortlog
 - git reflog
@@ -23,3 +23,5 @@
 
 ### Git:  merge e pull request (PR)
 - git merge `nome da branch a qual se quer fazer merge`
+- git merge --abort
+- git merge --continue
