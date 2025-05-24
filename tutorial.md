@@ -240,3 +240,5 @@
   ```bash
   git push origin main --force
   ```
+
+![Alt text](fluxo.png)
