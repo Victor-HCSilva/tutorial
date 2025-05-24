@@ -22,3 +22,4 @@
 - git remote show origin
 
 ### Git:  merge e pull request (PR)
+- git merge `nome da branch a qual se quer fazer merge`
